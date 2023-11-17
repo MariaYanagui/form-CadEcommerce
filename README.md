@@ -32,7 +32,7 @@ Os sites utilizados para essa pesquisa foi Centauro, Pandora e a Sephora
 * Destinatário 
 *   Formas de entrega (Expressa, Transportadora LOGGI e Correios)
 
-💻SEPHORA
+![printSephora](sephora.png)
 * Nome
 * Sobrenome 
 * CPF
@@ -55,5 +55,5 @@ Os sites utilizados para essa pesquisa foi Centauro, Pandora e a Sephora
 * Bairro 
 * Cidade 
 * Estado
-![printSephora](sephora.png)
+
 
