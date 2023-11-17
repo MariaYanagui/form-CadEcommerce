@@ -1,0 +1,10 @@
+body{
+    background-image: ;
+}
+/* Seleciona qualquer input válido */
+input:valid {
+    background-color: rgb(0, 0, 0);
+  }/* Seleciona qualquer input válido */
+input:valid {
+    background-color: powderblue;
+  }
