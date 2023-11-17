@@ -1,7 +1,7 @@
 # form-CadEcommerce
 Os sites utilizados para essa pesquisa foi Centauro, Pandora e a Sephora 
 
-! [printCentauro](centauro.png)
+![printCentauro](centauro.png)
 * Nome
 * Sobrenome 
 * CPF 
@@ -13,7 +13,7 @@ Os sites utilizados para essa pesquisa foi Centauro, Pandora e a Sephora
 * Senha 
 * Confirmar senha 
 
-! [printPandora](pandora.png)
+![printPandora](pandora.png)
 * E-mail 
 * CPF
 * Nome 
@@ -28,9 +28,9 @@ Os sites utilizados para essa pesquisa foi Centauro, Pandora e a Sephora
 * Número 
 * Complemento e referência 
 * Destinatário 
-*   Formas de entrega (Expressa, Transportadora LOGGI e Correios)
+* Formas de entrega (Expressa, Transportadora LOGGI e Correios)
 
-! [printephora](sephora.png)
+![printSephora](sephora.png)
 * Nome
 * Sobrenome 
 * CPF
