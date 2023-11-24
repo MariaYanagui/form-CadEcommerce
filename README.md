@@ -1,5 +1,5 @@
 # form-CadEcommerce
-Os sites utilizados para essa pesquisa foi Centauro, Pandora e a Sephora 
+Os sites utilizados para a pesquisa desse projeto foi Centauro, Pandora e a Sephora 
 
 ![printCentauro](centauro.png)
 * Nome
@@ -54,4 +54,5 @@ Os sites utilizados para essa pesquisa foi Centauro, Pandora e a Sephora
 * Cidade 
 * Estado
 
-
+Com esses exemplos de cadastro foi pedido para os alunos criarem o sua própria forma para cadastrar um site 
+[!printcadastro](cadastro%201.png)
