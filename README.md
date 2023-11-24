@@ -54,5 +54,6 @@ Os sites utilizados para a pesquisa desse projeto foi Centauro, Pandora e a Seph
 * Cidade 
 * Estado
 
-Com esses exemplos de cadastro foi pedido para os alunos criassem o sua própria forma para cadastrar um site 
+Com esses exemplos de cadastro foi pedido para que os alunos criassem a sua própria forma para cadastrar um site 
 ![printcadastro](cadastro%201.png)
+![printcadastro](cadastro%202.png)
