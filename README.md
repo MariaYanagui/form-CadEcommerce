@@ -56,3 +56,5 @@ Os sites utilizados para a pesquisa desse projeto foi Centauro, Pandora e a Seph
 
 Com esses exemplos de cadastro foi pedido para que os alunos criassem a sua própria forma para cadastrar um site 
 separei minha forma de cadastro em duas parte "DADOS PESSOAIS" e "DADOS DE ENTREGA" 
+
+![telainicial](dados%20pessoais.png)
