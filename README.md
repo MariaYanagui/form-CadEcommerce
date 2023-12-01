@@ -58,3 +58,4 @@ Com esses exemplos de cadastro foi pedido para que os alunos criassem a sua pró
 separei minha forma de cadastro em duas parte "DADOS PESSOAIS" e "DADOS DE ENTREGA" 
 
 ![telainicial](dados%20pessoais.png)
+![telainicial](dados%20entrega.png)
